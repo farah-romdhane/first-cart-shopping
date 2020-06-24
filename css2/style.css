@@ -1,0 +1,17 @@
+.cats {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+.fas {
+    font-size: 30px;
+}
+body {
+    background-color: beige;}
+img{
+    height: 100px;
+}
+.red{
+    color: red;
+}
